@@ -1,1 +1,1 @@
-document.write(Math.random())
+document.write(Math.random());
